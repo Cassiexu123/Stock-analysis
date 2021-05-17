@@ -8,8 +8,8 @@ Return in 2017 are much higher than th return in 2018. 11 out of 12 stocks have 
 Per the image below the code ran in 0.40625 seconds for the year 2017 and 0.1875 econds for the year 2018.
 ![](VBA_Challenge_2017.png)
 ![](VBA_Challenge_2018.png)
-### Code Analysis
-
+### Code Challenge Analysis
+![](code.PNG)
 ## Summary
 ### The Advantages vs Disadvantages of refactoring code
 Refactoring is to restructure the existing body of code, altering its internal structure, but still keep the external behavior
