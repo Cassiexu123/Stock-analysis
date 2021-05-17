@@ -9,7 +9,7 @@ Per the image below the code ran in 0.40625 seconds for the year 2017 and 0.1875
 ![](VBA_Challenge_2017.png)
 ![](VBA_Challenge_2018.png)
 ### Code Challenge Analysis
-![](code.PNG)
+![](Code.PNG)
 ## Summary
 ### The Advantages vs Disadvantages of refactoring code
 Refactoring is to restructure the existing body of code, altering its internal structure, but still keep the external behavior
