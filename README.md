@@ -9,6 +9,7 @@ Per the image below the code ran in 0.40625 seconds for the year 2017 and 0.1875
 ![](VBA_Challenge_2017.png)
 ![](VBA_Challenge_2018.png)
 ### Code Challenge Analysis
+I use tickerIndex instead of ticker(tickerIndex) and mixed with the AllStocksAnalysis script to find rge starting price for the current ticker at the begining, so the volumns can't be returned in the Excel Sheet.
 ![](Code.PNG)
 ## Summary
 ### The Advantages vs Disadvantages of refactoring code
@@ -24,3 +25,4 @@ Refactoring is to restructure the existing body of code, altering its internal s
 - Refactoring can take time if anything wrong during the structure changing.
 
 ### The Advantage vs Disvantages of applying to refactoring the original VBA script
+The advantage is change the internal script structure and ensure no extra code to be run; The disadvantage is if have any mistakes after refactoring, there is no original VBA script for us to compare.
