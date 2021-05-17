@@ -10,6 +10,7 @@ Per the image below the code ran in 0.40625 seconds for the year 2017 and 0.1875
 ![](VBA_Challenge_2018.png)
 ### Code Challenge Analysis
 I use tickerIndex instead of ticker(tickerIndex) and mixed with the AllStocksAnalysis script to find rge starting price for the current ticker at the begining, so the volumns can't be returned in the Excel Sheet.
+
 ![](Code.PNG)
 ## Summary
 ### The Advantages vs Disadvantages of refactoring code
