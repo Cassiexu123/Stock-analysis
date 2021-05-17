@@ -3,6 +3,8 @@
 Steve wants to do the stock analysis of the entire stock market, then help his parents to make the investigating decision. In this project, we refactor the Stock Market Dataset with VBA, then compare the run time by refactoing the code with the original code. Generally, we want using less money, less time, and fewer steps of code to help us make the stock investigation decision.
 ## Results
 The analysis is well described with screenshots and code
+![](VBA_Challenge_2017.png)
+![](VBA_Challenge_2018.png)
 ## Summary
 ### The Advantages vs Disadvantages of refactoring code
 Refactoring is to restructure the existing body of code, altering its internal structure, but still keep the external behavior
